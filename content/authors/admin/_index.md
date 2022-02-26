@@ -1,6 +1,7 @@
 ---
 title: Sylvain Gaulhiac
-role: Professor of Artificial Intelligence
+role: Researcher in Mathematics
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
