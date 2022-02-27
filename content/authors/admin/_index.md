@@ -1,7 +1,7 @@
 ---
 title: Sylvain Gaulhiac
 role: Researcher in Mathematics
-avatar_filename: photo_sylvain.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
