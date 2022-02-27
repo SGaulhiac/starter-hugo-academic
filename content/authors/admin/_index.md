@@ -32,6 +32,6 @@ highlight_name: true
 ---
 I am a mathematician working in algebraic geometry, 
 
-I am currently a postdoc at the department of Mathematical and Statistical Sciences at the University of Alberta. {{< staticref "[](assets/media/cv_7.pdf)https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html" "newtab" >}}lien{{< /staticref >}}
+I am currently a postdoc at the department of Mathematical and Statistical Sciences at the University of Alberta. {{< staticref [](assets/media/cv_7.pdf)https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html "newtab" >}}lien{{< /staticref >}}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "[assets/media/cv_7.pdf](assets/media/cv_7.pdf)" "newtab" >}}resumé{{< /staticref >}}.
