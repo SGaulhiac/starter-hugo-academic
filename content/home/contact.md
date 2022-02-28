@@ -29,7 +29,7 @@ content:
   #phone: 888 888 88 88
   address: 
     street: Mathematical and Statistical Sciences
-    University of Alberta
+    name: University of Alberta
     city: Edmonton
     region: AB
     postcode: 'T6G 2G1'
