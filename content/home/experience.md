@@ -30,7 +30,7 @@ weight: 40
 title: Experience
 subtitle: ""
 design:
-  columns: "1"
+  columns: "2"
   background:
     text_color_light: true
 ---
