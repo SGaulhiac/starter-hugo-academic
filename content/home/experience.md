@@ -28,10 +28,9 @@ widget_id: Postdoctoral Researcher
 headless: true
 weight: 40
 title: Experience
-subtitle: Does it work?
+subtitle: ""
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: true
 ---
-Where does this appear?
