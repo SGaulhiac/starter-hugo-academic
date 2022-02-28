@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+  email: gaulhiac@ualberta.ca
+  #phone: 888 888 88 88
+  address: Mathematical and Statistical Sciences
+    street: University of Alberta
+    city: Edmonton
+    region: AB
+    postcode: 'T6G 2G1'
+    country: Canada
+    country_code: CA
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
