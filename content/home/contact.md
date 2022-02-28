@@ -26,9 +26,9 @@ content:
 
   # Contact details (edit or remove options as required)
   email: gaulhiac@ualberta.ca
-  #phone: 888 888 88 88
-  address: Mathematical and Statistical Sciences
-    street: University of Alberta
+  phone: 888 888 88 88
+  address: 
+    street: Mathematical and Statistical Sciences, University of Alberta
     city: Edmonton
     region: AB
     postcode: 'T6G 2G1'
