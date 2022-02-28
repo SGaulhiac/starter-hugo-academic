@@ -16,19 +16,7 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-   - title: ATER (Attaché Temporaire d'Enseignement et de Recherche)
-    company: Sorbonne Université
-    company_url: ""
-    company_logo: org-gc
-    location: Paris, France
-    date_start: 2019
-    date_end: 2020
-    description: |-2
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+ 
   - title: Ph.D. in Mathematics
     company: Sorbonne Université
     company_url: ""
