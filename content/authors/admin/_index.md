@@ -33,4 +33,4 @@ I am a mathematician working in algebraic geometry. My research interests revolv
 
 I am currently a postdoc at the department of Mathematical and Statistical Sciences at the University of Alberta. I completed my Ph.D. in 2020 at Sorbonne Université in Paris, under the supervision of Antoine Ducros.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "[cv_7.pdf](assets/media/cv_7.pdf)" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads\[cv_7.pdf](assets/media/cv_7.pdf)" "newtab" >}}resumé{{< /staticref >}}.
