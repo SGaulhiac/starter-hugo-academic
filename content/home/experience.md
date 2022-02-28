@@ -16,15 +16,6 @@ experience:
         * Analysing
         * Modelling
         * Deploying
- 
-  - title: Ph.D. in Mathematics
-    company: Sorbonne Université
-    company_url: ""
-    company_logo: org-x
-    location: Paris, France
-    date_start: 2016
-    date_end: 2020
-    description: Taught electronic engineering and researched semiconductor physics.
 widget_id: Postdoctoral Researcher
 headless: true
 weight: 40
