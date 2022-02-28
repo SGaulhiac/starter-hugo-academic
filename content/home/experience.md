@@ -1,6 +1,6 @@
 ---
 widget: experience
-active: false
+active: true
 date_format: Jan 2006
 experience:
   - title: CEO
@@ -32,6 +32,6 @@ subtitle: Does it work?
 design:
   columns: "2"
   background:
-    text_color_light: false
+    text_color_light: true
 ---
 Where does this appear?
