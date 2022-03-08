@@ -3,7 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Postdoctoral Researcher
+  - title: Postdoctoral researcher
     company: University of Alberta
     company_url: ""
     company_logo: org-gc
