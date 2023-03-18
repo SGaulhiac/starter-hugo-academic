@@ -216,7 +216,7 @@ sections:
       # phone: 888 888 88 88
       appointment_url: ""
       address:
-        street: ul. Sniadeckich 8
+        street: 'ul. Sniadeckich 8'
         city: Warsaw
         #region: CA
         postcode: '00-656'
