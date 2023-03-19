@@ -14,11 +14,11 @@ last_name: Gaulhiac
 superuser: true
 
 # Role/position/tagline
-role: Postdoc in IMPAN
+role: Postdoc at IMPAN
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Instytut Matematyczy PAN
+  - name: Instytut Matematyczny PAN
     url: https://www.impan.pl/
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,13 +35,10 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
+      year: 2020
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
