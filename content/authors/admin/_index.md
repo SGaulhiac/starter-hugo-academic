@@ -61,8 +61,8 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
  # - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  #  icon_pack: fab
+   # link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,5 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctal fellow in mathematics at IMPAN, in Warsaw, in the group of Piotr Achinger. I am funded by the ERC KAPIBARA. Previously I was a postdoc in University of Alberta, Edmonton. Before that I did my PhD under the supervision of Antoine Ducros at Sorbonne Université, Paris. 
+
+I am working in algebraic and arithmetic geometry. I am interested in Berkovich spaces, more generally in rigid-analytic geometry, as well as anabelian geometry in these spaces. I like fundamental groups, and I studied a lot the tempered fundamental group of a rigid analytic variety throught the prism of anabelian geometry. I am also interested in condensed mathematics.  
+
 {style="text-align: justify;"}
