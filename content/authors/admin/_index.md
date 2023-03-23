@@ -8,7 +8,7 @@ last_name: Gaulhiac
 
 # Status emoji
  status: Postdoc at IMPAN, Warsaw
-# icon: <font-awesome-icon :icon="['far', 'mountain-sun']" />
+# icon: 
 
 # Is this the primary user of the site?
 superuser: true
