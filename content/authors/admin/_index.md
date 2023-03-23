@@ -7,7 +7,7 @@ first_name: Sylvain
 last_name: Gaulhiac
 
 # Status emoji
- status: Postdoc at IMPAN, Warsaw
+# status: 
 # icon: 
 
 # Is this the primary user of the site?
