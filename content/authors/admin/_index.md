@@ -7,8 +7,8 @@ first_name: Sylvain
 last_name: Gaulhiac
 
 # Status emoji
-# status:
-# icon: ☕️
+ status: Postdoc at IMPAN, Warsaw
+# icon: <font-awesome-icon :icon="['far', 'mountain-sun']" />
 
 # Is this the primary user of the site?
 superuser: true
