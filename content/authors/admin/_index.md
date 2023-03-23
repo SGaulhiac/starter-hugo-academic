@@ -22,13 +22,14 @@ organizations:
     url: https://www.impan.pl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include algebraic geometry.
+bio: My research interests include algebraic geometry, rigid analytic geometry, Berkovich spaces, anabelian geometry.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Algebraic / arithmetic geometry 
+  - Rigid-analytic spaces, Berkovich spaces
+  - Anabelian geometry
+  - Tempered fundamental group
 
 # Education to show in About widget
 education:
@@ -56,10 +57,10 @@ social:
    #  header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Sylvain-Gaulhiac
+ # - icon: github
+  #  icon_pack: fab
+   # link: https://github.com/gcushen
  # - icon: linkedin
   #  icon_pack: fab
    # link: https://www.linkedin.com/
