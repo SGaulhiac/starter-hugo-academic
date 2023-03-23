@@ -48,7 +48,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+ # - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
@@ -60,7 +60,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
+ # - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
