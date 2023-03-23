@@ -58,9 +58,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://www.researchgate.net/profile/Sylvain-Gaulhiac
- # - icon: github
-  #  icon_pack: fab
-   # link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://bachtrack.com/fr_FR/22/270/list-published/20748
  # - icon: linkedin
   #  icon_pack: fab
    # link: https://www.linkedin.com/
