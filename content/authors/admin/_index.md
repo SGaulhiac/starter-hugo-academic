@@ -3,7 +3,7 @@
 title: Sylvain Gaulhiac
 
 # Full name (for SEO)
-first_name: Sylvai
+first_name: Sylvain
 last_name: Gaulhiac
 
 # Status emoji
