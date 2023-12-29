@@ -1,5 +1,5 @@
 ---
-title: 'Comparison between admissible and de Jong coverings of rigid analytic spaces in mixed characteristic'
+title: 'Towards tempered anabelian behaviour of Berkovich annuli'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -35,9 +35,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 -  Publications
-
-# Display this page in the Featured widget?
-featured: false
 
 # Custom links (uncomment lines below)
 # links:
