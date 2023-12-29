@@ -92,9 +92,9 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: teaching
     content:
-      title: Projects
+      title: Teaching
       filters:
         folders:
           - project
@@ -139,9 +139,9 @@ sections:
  #     view: card
   
   - block: collection
-    id: talks
+    id: music
     content:
-      title: Recent & Upcoming Talks
+      title: Music
       filters:
         folders:
           - event
