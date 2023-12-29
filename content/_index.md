@@ -47,7 +47,7 @@ sections:
               * Deploying
   
     
-  - block: portfolio
+  - block: collection
     id: research
     content:
       title: Research
