@@ -47,20 +47,15 @@ sections:
               * Deploying
   
     
-  - block: collection
+  - block: portfolio
     id: research
     content:
       title: Research
-      
-      # text: |-
-       # {{% callout note %}}
-       # Quickly discover relevant content by [filtering publications](./publication/).
-       # {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: true
-    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
@@ -80,9 +75,9 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-    design:
-      columns: '2'
-      view: citation
+    # design:
+      # columns: '2'
+      # view: citation
       
   - block: collection
     id: notes
