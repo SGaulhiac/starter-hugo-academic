@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Comparison between admissible and de Jong coverings of rigid analytic spaces in mixed characteristic'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,7 +33,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: Publications
 
 # Display this page in the Featured widget?
 featured: false
