@@ -37,11 +37,11 @@ tags:
 -  Publications
 
 # Custom links (uncomment lines below)
-# links:
+links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf:  https://smf.emath.fr/publications/vers-un-comportement-anabelien-tempere-des-couronnes-de-berkovich
+url_pdf: 'https://smf.emath.fr/publications/vers-un-comportement-anabelien-tempere-des-couronnes-de-berkovich'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
