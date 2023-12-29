@@ -108,13 +108,22 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
+  - block: Experience
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - project
+      items:
+        - title: Calculus 1, Math100
+          company: Instructor
+          company_url: ''
+          location: University of Alberta
+          date_start: '2021'
+          date_end: '2022'
+        - title: Differential equations (level L2)
+          company: Teaching Assistant
+          location: Sorbonne Université
+          date_start: '2019'
+          date_end: '2020'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
