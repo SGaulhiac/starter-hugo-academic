@@ -47,7 +47,7 @@ sections:
               * Deploying
   
     
-  - block: collection
+  - block: portfolio
     id: research
     content:
       title: Research
@@ -66,9 +66,9 @@ sections:
         - name: All
           tag: '*'
         - name: Publications
-          tag: Deep Learning
+          tag: Publications
         - name: Preprint
-          tag: Demo
+          tag: Preprint
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
