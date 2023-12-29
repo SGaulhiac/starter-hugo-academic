@@ -124,12 +124,12 @@ sections:
           location: Sorbonne Université
           date_start: '2019'
           date_end: '2020'
-    design:
+    # design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      view: citation
+      # columns: '2'
+      # view: citation
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      # flip_alt_rows: false
   
  # - block: collection
  #   id: featured
