@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Comparison between admissible and de Jong coverings of rigid analytic spaces in mixed characteristic"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
