@@ -69,6 +69,8 @@ sections:
           tag: Publications
         - name: Preprint
           tag: Preprint
+        - name: PhD thesis
+          tag: PhD
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
