@@ -160,8 +160,10 @@ sections:
  #     columns: '2'
  #     view: card
   - block: collection
+    id: research
     content:
-      title: Publications
+      title: Research
+      subtitle: Publications
       # text: |-
        # {{% callout note %}}
        # Quickly discover relevant content by [filtering publications](./publication/).
