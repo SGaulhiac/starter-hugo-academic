@@ -29,6 +29,7 @@ publication_types: ['7']
 # publication_short: 
 
 abstract: This work brings to light some anabelian behaviours of analytic curves in the context of Berkovich geometry. We show that the knowledge of the tempered fundamental group of some curves called analytically anabelian determines their analytic skeletons as graphs. The famous Drinfeld half-plane is an example of such a curve. The tempered fundamental group of a Berkovich space, introduced by André, enabled Mochizuki to prove the first anabelian result in Berkovich geometry, dealing with analytifications of hyperbolic curves over Qp. To that end, Mochizuki develops the language of semi-graphs of anabelioids and temperoids. Our work consists in associating a semi-graph of anabelioids to a Berkovich curve equipped with a minimal triangulation and in adapting the results of Mochizuki in order to recover the analytic skeleton of the curve. The novelty of this anabelian result lies in the fact that the curves we are interested in are no longer supposed to be of algebraic nature. Finally, combining some results of resolution of non-singularities to some fine study of decomposition sets of p-torsors and associated harmonic cochains, we obtain some result of partial anabelianity of lenghts of annuli.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -40,7 +41,7 @@ tags:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://smf.emath.fr/publications/vers-un-comportement-anabelien-tempere-des-couronnes-de-berkovich'
+url_pdf: 'https://www.imj-prg.fr/theses/pdf/sylvain_gaulhiac.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
