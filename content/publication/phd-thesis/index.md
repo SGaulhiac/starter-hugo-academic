@@ -1,4 +1,3 @@
----
 title: 'Comportements anabéliens des courbes de Berkovich sous les perspectives tempérées'
 
 # Authors
