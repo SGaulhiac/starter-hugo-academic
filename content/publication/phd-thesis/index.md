@@ -41,7 +41,7 @@ tags:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.imj-prg.fr/theses/pdf/sylvain_gaulhiac.pdf'
+url_pdf: https://www.imj-prg.fr/theses/pdf/sylvain_gaulhiac.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
